@@ -1,2 +1,1 @@
-# CODSOFT
-Internship by Codsoft.
+# Simple Password Generator 
